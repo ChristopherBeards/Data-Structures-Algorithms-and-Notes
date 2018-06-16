@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-Within this repository you will find various Data Structures and Algorithms coded and commented.
+Within this repository you will find personal notes on various Data Structures, Algorithms, and Study materials coded and commented.
 
 ## Getting Started
 
@@ -14,11 +14,26 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
   - Some are fast at searching and retrieving Data.
 * Each type of Data Structure represents a different way of organizing Data.
 
+#### Contains:
+  1. Linked List
+
 # What are Algorithms?
 
 * An algorithm is a well-defined procedure, or a sequence of unambiguous instructions that allows a computer to solve a problem.
 
+#### Contains:
+  1.  Logic Gates
+  2. Rand 7 to Rand 5
+
+# Notes
+
+* An assortment of notes on various subjects for general education and/or reference.
+
+#### Contains:
+  1. Big O Notation
+  2. REST API & HTTP
+
 ## Author
 
-* **Christopher Beards** - [Primary](https://christopherbeards.com) | [GitHub](https://github.com/christopherbeards)
+* **Christopher Beards** - [Primary](https://christopherbeards.com) | [GitHub](https://github.com/christopherbeards) | [LinkedIn](https://www.linkedin.com/in/christopher-beards-1292b529/)
 
