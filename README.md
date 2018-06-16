@@ -6,7 +6,7 @@ Within this repository you will find personal notes on various Data Structures, 
 
 Feel free to fork and clone this repo or simply browse the code as a refresher or useful reference guide.
 
-# What are Data Structures?
+## What are Data Structures?
 
 * A way of organizing data that is stored in a computer or database.
 * There are many different kinds of Data Structures.
@@ -17,7 +17,7 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
 #### Contains:
   1. Linked List
 
-# What are Algorithms?
+## What are Algorithms?
 
 * An algorithm is a well-defined procedure, or a sequence of unambiguous instructions that allows a computer to solve a problem.
 
@@ -25,7 +25,7 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
   1.  Logic Gates
   2. Rand 7 to Rand 5
 
-# Notes
+## Notes
 
 * An assortment of notes on various subjects for general education and/or reference.
 
