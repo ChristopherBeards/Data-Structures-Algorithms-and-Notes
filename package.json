@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherBeards/Coding-Challenges.git"
+  },
+  "author": "Christopher Beards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherBeards/Coding-Challenges/issues"
+  },
+  "homepage": "https://github.com/ChristopherBeards/Coding-Challenges#readme",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}

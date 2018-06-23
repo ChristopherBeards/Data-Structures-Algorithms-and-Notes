@@ -1,10 +1,19 @@
 # Data Structures and Algorithms
 
-Within this repository you will find personal notes on various Data Structures, Algorithms, and Study materials coded and commented.
+Within this repository you will find personal notes on various Data Structures, Algorithms, and Coding Challenges.
 
 ## Getting Started
 
 Feel free to fork and clone this repo or simply browse the code as a refresher or useful reference guide.
+
+### Practice Section
+
+- Run: `npm install`
+
+`Running Tests`
+
+- `CD into the challenge folder`
+- Run: `jest test <folder>/<test.js>`
 
 ## What are Data Structures?
 
@@ -14,24 +23,9 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
   - Some are fast at searching and retrieving Data.
 * Each type of Data Structure represents a different way of organizing Data.
 
-#### Contains:
-  1. Linked List
-
 ## What are Algorithms?
 
 * An algorithm is a well-defined procedure, or a sequence of unambiguous instructions that allows a computer to solve a problem.
-
-#### Contains:
-  1.  Logic Gates
-  2. Rand 7 to Rand 5
-
-## Notes
-
-* An assortment of notes on various subjects for general education and/or reference.
-
-#### Contains:
-  1. Big O Notation
-  2. REST API & HTTP
 
 ## Author
 
