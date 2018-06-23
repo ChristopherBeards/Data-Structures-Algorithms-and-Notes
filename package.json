@@ -1,5 +1,5 @@
 {
-  "name": "coding-challenges",
+  "name": "Data-Structures-Algorithms-and-Notes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristopherBeards/Coding-Challenges.git"
+    "url": "git+https://github.com/ChristopherBeards/Data-Structures-Algorithms-and-Notes.git"
   },
   "author": "Christopher Beards",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChristopherBeards/Coding-Challenges/issues"
+    "url": "https://github.com/ChristopherBeards/Data-Structures-Algorithms-and-Notes/issues"
   },
-  "homepage": "https://github.com/ChristopherBeards/Coding-Challenges#readme",
+  "homepage": "https://github.com/ChristopherBeards/Data-Structures-Algorithms-and-Notes#readme",
   "dependencies": {
     "jest": "^23.1.0"
   }
