@@ -12,8 +12,7 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
 
 `Running Tests`
 
-- `CD into the challenge folder`
-- Run: `jest test <folder>/<test.js>`
+- Run: `jest <folder>/<test.js>`
 
 ## What are Data Structures?
 
