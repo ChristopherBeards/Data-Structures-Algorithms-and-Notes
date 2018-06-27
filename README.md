@@ -12,7 +12,7 @@ Feel free to fork and clone this repo or simply browse the code as a refresher o
 
 `Running Tests`
 
-- Run: `jest <folder>/<test.js>`
+- Run: `jest <folder>/<test.js>` or `yarn jest <folder>/<test.js>`
 
 ## What are Data Structures?
 

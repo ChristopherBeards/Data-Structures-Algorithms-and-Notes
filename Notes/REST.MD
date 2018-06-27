@@ -12,7 +12,7 @@
     
   ##### NOT REST: `/changeTodoList.php?item=35&action=changeTitle&title=new_title`
 
-Note how this is indeed an instruction (to) change something. But a “changeTodoList” is not a thing, it's not a resource.
+Note how this is indeed an instruction (to) change something. But a “changeTodoList” is not a thing,it's not a resource.
 
 In the REST architectural style, servers only offer resources. Resources are conceptual things about which clients and servers communicate.
 
