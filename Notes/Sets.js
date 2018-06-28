@@ -34,7 +34,7 @@ console.log(set); // * output -> Set { 2 }
 set.add(1);    
 console.log(set); // * output -> Set { 2, 1 }
 set.clear();      
-console.log(set); // * output -> Set {} (all values cleared)
+console.log(set); // * output -> Set {} (All Values Cleared)
 
 /* 
 ! Checking Values from a Set
