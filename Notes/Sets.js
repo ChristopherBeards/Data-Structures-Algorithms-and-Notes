@@ -64,4 +64,9 @@ for (elem of set.entries()) console.log(elem);
 for (elem of set.keys()) console.log(elem);   // * output -> 1, 2, 3
 for (elem of set.values()) console.log(elem); // * output -> 1, 2, 3
 
-
+/* 
+* Weak Sets 
+A WeakSet basically a Set but it is not enumerable (no looping).
+WeakSets hold weak references to the stored values. So if some value isn't being
+used anymore, it can get garbage-collected and be released from the map.
+*/
