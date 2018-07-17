@@ -1,8 +1,8 @@
-#Trees
+# Trees
 
 A tree is a data structure made up of nodes or vertices and edges without having any cycle. The tree with no nodes is called the null or empty tree. A tree that is not empty consists of a root node and potentially many levels of additional nodes that form a hierarchy. | [Source](<https://en.wikipedia.org/wiki/Tree_(data_structure)>)
 
-## Terminology summary
+## Terminology Summary
 
 - `Root` is the topmost node of the tree
 - `Edge` is the link between two nodes
