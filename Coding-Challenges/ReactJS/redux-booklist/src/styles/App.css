@@ -1,0 +1,34 @@
+.App {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 200px;
+  width: 50%;
+  padding: 20px;
+  color: white;
+  align-self: center;
+}
+
+.list-group {
+  width: 50%;
+  margin-top: 10px;
+  padding: 0px;
+}
+
+ul:hover {
+  cursor: pointer;
+}
+
+ul p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0;
+}

@@ -7,7 +7,6 @@ Example: [50, -10, 0, -5, 20, 10, 1] = [-10, -5, 0, 1, 10, 20, 50];
 Testing: `jest Selection-Sort/test.js`
 */
 
-function selectionSort(arr) {
-}
+function selectionSort(arr) {}
 
 module.exports = selectionSort;
