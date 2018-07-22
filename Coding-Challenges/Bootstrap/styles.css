@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Cover */
+
+#cover {
+  background: #222
+    url('https://cdn.vox-cdn.com/thumbor/3nC_cQ3WgHtyG3vEgnDw9FFr_FU=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/uploads/chorus_image/image/49494383/code.0.jpg')
+    no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+}
