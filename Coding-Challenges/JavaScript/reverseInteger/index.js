@@ -8,8 +8,6 @@ Example:
 Testing: `jest reverseInteger/test.js`
 */
 
-
-function reverseInteger(n) {
-}
+function reverseInteger(n) {}
 
 module.exports = reverseInteger;
