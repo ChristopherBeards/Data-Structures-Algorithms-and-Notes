@@ -1,0 +1,29 @@
+<!-- Open this page in your browser and open your developer console. 
+Click on `Sources` -> refresh the page -> view the Call Stack. 
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Count Array</title>
+</head>
+
+<body>
+  <script>
+    function countArr(array) {
+      debugger;
+      if (array.length) {
+        return 1 + countArr(array.slice(1));
+      } else {
+        return 0;
+      }
+    }
+
+    console.log(countArr([1, 2, 3, 4, 5]));
+  </script>
+</body>
+
+</html>

@@ -4,7 +4,6 @@ Example: 'hello' = 'olleh'
 Testing: `jest reverseString/test.js`
 */
 
-function reverse(str) {
-}
+function reverse(str) {}
 
 module.exports = reverse;
