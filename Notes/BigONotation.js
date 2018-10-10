@@ -1,6 +1,10 @@
 /* 
 * Big O Notation
 
+* Time Complexity: The worst case runtime of an algorithm.
+
+* Space Complexity: The amount of memory required to run an algorithm with respect to the input size.
+
 * O(1) Constant Time: No matter how many elements we're working with, the algorithm will always take the same amount of time.
 
 * log(n) Logarithmic Time: Doubling the number of elements doesn't double the amount of work.
